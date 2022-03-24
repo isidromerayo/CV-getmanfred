@@ -1,0 +1,207 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Isidro",
+      "surnames": "Merayo Castellano",
+      "title": "",
+      "description": "En tecnología me gusta el uso de Software Libre, los entornos Web y las metodologías ágiles.",
+      "avatar": {
+        "alt": "FotoCarneFuncionario.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/c285485f-8a0c-4708-bcaa-3d4367bbd4ca_fotocarnefuncionario.jpg"
+      },
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/isidromerayocastellano/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Hospital Clínico Universitario de Valladolid - Gerencia Regional de Salud de Castilla y León",
+          "URL": "https://www.saludcastillayleon.es/HCUValladolid/es"
+        },
+        "roles": [
+          {
+            "name": "Camino de convertirme en hombre orquesta",
+            "startDate": "2019-03-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "HL7",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Madison (Grupo Telecyl)"
+        },
+        "roles": [
+          {
+            "name": "Responsable Área de Desarrollo",
+            "startDate": "2003-01-01",
+            "finishDate": "2007-11-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hospital Clínico Universitario de Valladolid - Gerencia Regional de Salud de Castilla y León"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Java EE",
+            "startDate": "2013-09-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hospital Clínico Universitario de Valladolid"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web, Administrador Linux e Integración HL7",
+            "startDate": "2008-08-01",
+            "finishDate": "2013-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Delegación del Gobierno en Castilla y León",
+          "image": {
+            "alt": "ministerio-PoliticaTerritorial.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/461ab7de-1275-4e99-8348-de61b84ede14_ministerio-politicat.png"
+          }
+        },
+        "roles": [
+          {
+            "name": " Cuerpo de Técnicos Auxiliares de Informática de la Administración del EstadoCuerpo de Técnicos Auxiliares de Informática de la Administración del Estado",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "I.T.Informática de Gestión",
+        "startDate": "1994-10-01",
+        "finishDate": "2009-01-01",
+        "institution": {
+          "name": "Universidad de Valladolid",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Experto Universitario en Informática Médica",
+        "startDate": "2010-10-01",
+        "finishDate": "2011-02-01",
+        "institution": {
+          "name": "Universidad de Alicante",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Dirección de Sistemas y TIC para la Salud y en Digitalización Sanitaria",
+        "startDate": "2020-10-01",
+        "finishDate": "2021-10-01",
+        "institution": {
+          "name": "Escuela Nacional de Sanidad (España)",
+          "description": "",
+          "URL": "https://www.isciii.es/QuienesSomos/CentrosPropios/ENS/Paginas/default.aspx"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/isidromerayocastellano/"
+        }
+      ]
+    }
+  }
+}
