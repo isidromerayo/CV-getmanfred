@@ -125,23 +125,6 @@
       },
       {
         "organization": {
-          "name": "Hospital Clínico Universitario de Valladolid"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Web, Administrador Linux e Integración HL7",
-            "startDate": "2008-08-01",
-            "finishDate": "2013-09-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Autónomo"
         },
         "roles": [
@@ -162,6 +145,23 @@
               {
                 "name": "MySQL",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hospital Clínico Universitario de Valladolid"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Web, Administrador Linux e Integración HL7",
+            "startDate": "2008-08-01",
+            "finishDate": "2013-09-01",
+            "challenges": [
+              {
+                "description": ""
               }
             ]
           }
