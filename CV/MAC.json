@@ -130,13 +130,13 @@
       },
       {
         "organization": {
-          "name": "Freelance/Autónomo"
+          "name": "Autónomo"
         },
         "roles": [
           {
-            "name": "Freelance/Autónomo",
+            "name": "Freelance",
             "startDate": "2010-05-01",
-            "finishDate": "2008-06-01",
+            "finishDate": "2011-06-01",
             "challenges": [
               {
                 "description": ""
