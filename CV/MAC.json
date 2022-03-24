@@ -65,7 +65,11 @@
       },
       {
         "organization": {
-          "name": "Madison (Grupo Telecyl)"
+          "name": "Madison (Grupo Telecyl)",
+          "image": {
+            "alt": "1573560361345.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53cd84f9-2090-427f-9f98-aa2ebcf21f77_1573560361345.jpg"
+          }
         },
         "roles": [
           {
