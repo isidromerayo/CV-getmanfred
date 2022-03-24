@@ -152,7 +152,11 @@
       },
       {
         "organization": {
-          "name": "Hospital Clínico Universitario de Valladolid"
+          "name": "Hospital Clínico Universitario de Valladolid",
+          "image": {
+            "alt": "ps-logoSacyl_r3.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/050272bb-30d5-40cd-9452-55945de7c952_ps-logosacyl_r3.png"
+          }
         },
         "roles": [
           {
