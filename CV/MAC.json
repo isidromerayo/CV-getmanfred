@@ -104,7 +104,11 @@
       },
       {
         "organization": {
-          "name": "Hospital Clínico Universitario de Valladolid - Gerencia Regional de Salud de Castilla y León"
+          "name": "Hospital Clínico Universitario de Valladolid - Gerencia Regional de Salud de Castilla y León",
+          "image": {
+            "alt": "ps-logoSacyl_r3.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0961e230-7a59-44f5-8c96-37476e359b42_ps-logosacyl_r3.png"
+          }
         },
         "roles": [
           {
