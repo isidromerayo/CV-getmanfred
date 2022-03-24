@@ -157,6 +157,23 @@
       },
       {
         "organization": {
+          "name": "Freelance/Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Analista/Programador, Webmaster",
+            "startDate": "2007-12-01",
+            "finishDate": "2008-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Delegación del Gobierno en Castilla y León",
           "image": {
             "alt": "ministerio-PoliticaTerritorial.png",
