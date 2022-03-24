@@ -44,7 +44,7 @@
             ],
             "competences": [
               {
-                "name": "HL7",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -52,7 +52,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "HL7",
                 "type": "technology"
               }
             ]
@@ -83,11 +83,11 @@
                 "type": "technology"
               },
               {
-                "name": "Apache",
+                "name": "Linux",
                 "type": "technology"
               },
               {
-                "name": "Linux",
+                "name": "Apache",
                 "type": "technology"
               }
             ]
@@ -123,6 +123,33 @@
             "challenges": [
               {
                 "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance/Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Freelance/Autónomo",
+            "startDate": "2010-05-01",
+            "finishDate": "2008-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
               }
             ]
           }
